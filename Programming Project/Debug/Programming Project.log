@@ -1,0 +1,3 @@
+﻿  Story.cpp
+C:\Users\irich\source\repos\Programming Project\Story.h(17): warning C4930: 'std::string firstNameSelector(int)': prototyped function not called (was a variable definition intended?)
+  Programming Project.vcxproj -> C:\Users\irich\source\repos\Programming Project\Debug\Programming Project.exe
